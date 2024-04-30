@@ -1,0 +1,19 @@
+
+body {  background: linear-gradient(to right, rgb(221, 221, 191),rgba(91, 134, 91, 0.509));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-style: italic; color:rgb(199, 34, 34);
+}
+
+nav ul {
+    list-style-type: #32353799;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+footer {
+    background-color: #dbd4cb;
+}
